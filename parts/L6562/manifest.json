@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L6562:L6562",
+  "name": "L6562",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L6562.kicad_sym",
+  "description": "Transition-Mode PFC Controller, DIP-8/SOIC-8",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l6562.pdf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "",
+  "extends": "L6561",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L6562/",
+  "part_path": "parts/L6562",
+  "symbol_file": "parts/L6562/L6562.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.305Z"
+}

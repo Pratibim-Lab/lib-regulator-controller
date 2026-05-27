@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/SG3527:SG3527",
+  "name": "SG3527",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/SG3527.kicad_sym",
+  "description": "Regulating Pulse Width Modulators, OR Logic, PDIP-16/SOIC-16",
+  "datasheet": "https://www.microsemi.com/document-portal/doc_view/11120-sg1525a-sg1527a-datasheet",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "",
+  "extends": "SG3525",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/SG3527/",
+  "part_path": "parts/SG3527",
+  "symbol_file": "parts/SG3527/SG3527.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.829Z"
+}

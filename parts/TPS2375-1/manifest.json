@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/TPS2375-1:TPS2375-1",
+  "name": "TPS2375-1",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/TPS2375-1.kicad_sym",
+  "description": "IEEE802.3af PoE Controller, Auto-Retry",
+  "datasheet": "https://www.ti.com/lit/gpn/tps2375-1",
+  "keywords": "IEEE802.3af PoE",
+  "footprint": "Package_SO:TSSOP-8_4.4x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/TPS2375-1/",
+  "part_path": "parts/TPS2375-1",
+  "symbol_file": "parts/TPS2375-1/TPS2375-1.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.907Z"
+}

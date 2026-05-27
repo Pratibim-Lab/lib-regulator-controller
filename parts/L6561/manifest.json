@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L6561:L6561",
+  "name": "L6561",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L6561.kicad_sym",
+  "description": "Transition Mode Power Factor Corrector, DIP-8/SOIC-8",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l6561.pdf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L6561/",
+  "part_path": "parts/L6561",
+  "symbol_file": "parts/L6561/L6561.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.296Z"
+}

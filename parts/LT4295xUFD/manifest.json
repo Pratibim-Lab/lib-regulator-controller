@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LT4295xUFD:LT4295xUFD",
+  "name": "LT4295xUFD",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LT4295xUFD.kicad_sym",
+  "description": "IEEE 802.3bt PD Interface with Forward/Flyback Controller, QFN-28",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LT4295.pdf",
+  "keywords": "LTPoE++ IEEE 802.3af IEEE 802.3at IEEE 802.3bt",
+  "footprint": "Package_DFN_QFN:QFN-28-1EP_4x5mm_P0.5mm_EP2.65x3.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LT4295xUFD/",
+  "part_path": "parts/LT4295xUFD",
+  "symbol_file": "parts/LT4295xUFD/LT4295xUFD.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.493Z"
+}

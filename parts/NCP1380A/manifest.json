@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1380A:NCP1380A",
+  "name": "NCP1380A",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1380A.kicad_sym",
+  "description": "Quasi-Resonant Current-Mode Controller for Off-Line Supplies, OVP/OTP, Latched OCP, SOIC-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCP1380-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1380A/",
+  "part_path": "parts/NCP1380A",
+  "symbol_file": "parts/NCP1380A/NCP1380A.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.724Z"
+}

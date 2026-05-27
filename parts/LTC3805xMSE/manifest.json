@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LTC3805xMSE:LTC3805xMSE",
+  "name": "LTC3805xMSE",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LTC3805xMSE.kicad_sym",
+  "description": "Adjustable Frequency current Mode Flyback DC/DC controller, MSOP-10",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/3805fg.pdf",
+  "keywords": "flyback dc-dc switcher switching",
+  "footprint": "Package_SO:MSOP-10-1EP_3x3mm_P0.5mm_EP1.68x1.88mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LTC3805xMSE/",
+  "part_path": "parts/LTC3805xMSE",
+  "symbol_file": "parts/LTC3805xMSE/LTC3805xMSE.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.507Z"
+}

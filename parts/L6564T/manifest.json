@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L6564T:L6564T",
+  "name": "L6564T",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L6564T.kicad_sym",
+  "description": "10-Pin Transition-Mode PFC Controller for Outdoor Applications, SSOP-10",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l6564t.pdf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "Package_SO:SSOP-10_3.9x4.9mm_P1.00mm",
+  "extends": "L6564",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L6564T/",
+  "part_path": "parts/L6564T",
+  "symbol_file": "parts/L6564T/L6564T.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.420Z"
+}

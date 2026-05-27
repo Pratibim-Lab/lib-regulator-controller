@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/TDA4863:TDA4863",
+  "name": "TDA4863",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/TDA4863.kicad_sym",
+  "description": "Power Factor Controller IC for High Power Factor and Low THD, DIP-8/SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-TDA4863-DS-v02_00-en.pdf?fileId=db3a304412b407950112b427d2d23ce8",
+  "keywords": "PFC SMPS Controller",
+  "footprint": "",
+  "extends": "TDA4862",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/TDA4863/",
+  "part_path": "parts/TDA4863",
+  "symbol_file": "parts/TDA4863/TDA4863.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.881Z"
+}

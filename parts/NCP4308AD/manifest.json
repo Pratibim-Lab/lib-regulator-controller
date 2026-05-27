@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP4308AD:NCP4308AD",
+  "name": "NCP4308AD",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP4308AD.kicad_sym",
+  "description": "Synchronous Rectifier Controller, 4A/8A, 4V UVLO, GaN Capable, SOIC-8",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF",
+  "keywords": "synchronous rectifier controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP4308AD/",
+  "part_path": "parts/NCP4308AD",
+  "symbol_file": "parts/NCP4308AD/NCP4308AD.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.735Z"
+}

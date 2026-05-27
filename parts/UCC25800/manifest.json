@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC25800:UCC25800",
+  "name": "UCC25800",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC25800.kicad_sym",
+  "description": "Ultra-low EMI Transformer Driver for Isolated Bias Supplies, HVSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ucc25800-q1.pdf",
+  "keywords": "transformer driver isolated bias supply llc converter",
+  "footprint": "Package_SO:HVSSOP-8-1EP_3x3mm_P0.65mm_EP1.57x1.89mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC25800/",
+  "part_path": "parts/UCC25800",
+  "symbol_file": "parts/UCC25800/UCC25800.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.173Z"
+}

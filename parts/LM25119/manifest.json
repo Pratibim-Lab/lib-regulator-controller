@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LM25119:LM25119",
+  "name": "LM25119",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LM25119.kicad_sym",
+  "description": "Wide Input Range, Dual Synchronous Buck Controller, WQFN-32",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/lm25119.pdf",
+  "keywords": "Dual Synchronous Buck",
+  "footprint": "Package_DFN_QFN:WQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LM25119/",
+  "part_path": "parts/LM25119",
+  "symbol_file": "parts/LM25119/LM25119.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.447Z"
+}

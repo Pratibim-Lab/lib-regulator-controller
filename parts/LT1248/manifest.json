@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LT1248:LT1248",
+  "name": "LT1248",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LT1248.kicad_sym",
+  "description": "Power Factor Controller, DIP-16/SOIC-16",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1248fd.pdf",
+  "keywords": "pfc controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LT1248/",
+  "part_path": "parts/LT1248",
+  "symbol_file": "parts/LT1248/LT1248.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.474Z"
+}

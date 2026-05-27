@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LTC3892-2:LTC3892-2",
+  "name": "LTC3892-2",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LTC3892-2.kicad_sym",
+  "description": "60V dual 2-phase synchronous step-down DC/DC controller, pulse-skipping, QFN-32",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/38921fc.pdf",
+  "keywords": "switching buck converter regulator dual-output",
+  "footprint": "Package_DFN_QFN:QFN-32-1EP_5x5mm_P0.5mm_EP3.45x3.45mm",
+  "extends": "LTC3892",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LTC3892-2/",
+  "part_path": "parts/LTC3892-2",
+  "symbol_file": "parts/LTC3892-2/LTC3892-2.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.547Z"
+}

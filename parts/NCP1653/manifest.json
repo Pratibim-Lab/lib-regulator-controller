@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1653:NCP1653",
+  "name": "NCP1653",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1653.kicad_sym",
+  "description": "Compact, Fixed-Frequency, Continuous Conduction Mode PFC Controller, 100kHz, DIP-8/SOIC-8",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCP1653-D.PDF",
+  "keywords": "PFC SMPS Controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1653/",
+  "part_path": "parts/NCP1653",
+  "symbol_file": "parts/NCP1653/NCP1653.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.731Z"
+}

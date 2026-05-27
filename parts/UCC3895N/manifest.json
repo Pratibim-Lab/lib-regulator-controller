@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC3895N:UCC3895N",
+  "name": "UCC3895N",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC3895N.kicad_sym",
+  "description": "BiCMOS, Advanced Phase-ShiftPWM Controller, DIP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc3895.pdf",
+  "keywords": "Phase-shift full-bridge converter",
+  "footprint": "Package_DIP:DIP-20_W7.62mm_LongPads",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC3895N/",
+  "part_path": "parts/UCC3895N",
+  "symbol_file": "parts/UCC3895N/UCC3895N.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.346Z"
+}

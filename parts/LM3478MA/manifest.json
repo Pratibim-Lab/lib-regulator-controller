@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LM3478MA:LM3478MA",
+  "name": "LM3478MA",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LM3478MA.kicad_sym",
+  "description": "2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller, SOIC-8",
+  "datasheet": "https://www.ti.com/lit/gpn/lm3478",
+  "keywords": "Boost flyback SEPIC DC-DC controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LM3478MA/",
+  "part_path": "parts/LM3478MA",
+  "symbol_file": "parts/LM3478MA/LM3478MA.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.455Z"
+}

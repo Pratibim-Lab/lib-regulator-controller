@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC24612-2DBV:UCC24612-2DBV",
+  "name": "UCC24612-2DBV",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC24612-2DBV.kicad_sym",
+  "description": "High Frequency Synchronous Rectifier Controller, 800kHz, Min On Time = 540ns, SOT-23-5",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc24612.pdf",
+  "keywords": "synchronous rectifier controller",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "UCC24612-1DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC24612-2DBV/",
+  "part_path": "parts/UCC24612-2DBV",
+  "symbol_file": "parts/UCC24612-2DBV/UCC24612-2DBV.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.126Z"
+}

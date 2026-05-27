@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LM3478MM:LM3478MM",
+  "name": "LM3478MM",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LM3478MM.kicad_sym",
+  "description": "2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/gpn/lm3478",
+  "keywords": "Boost flyback SEPIC DC-DC controller",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "LM3478MA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LM3478MM/",
+  "part_path": "parts/LM3478MM",
+  "symbol_file": "parts/LM3478MM/LM3478MM.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.461Z"
+}

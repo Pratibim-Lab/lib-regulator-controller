@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UC3845_DIP8:UC3845_DIP8",
+  "name": "UC3845_DIP8",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UC3845_DIP8.kicad_sym",
+  "description": "Current-Mode PWM Controllers, 50% Duty Cycle, 8.4V/7.6V UVLO, PDIP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/uc3842.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "UC3842_SOIC8",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UC3845_DIP8/",
+  "part_path": "parts/UC3845_DIP8",
+  "symbol_file": "parts/UC3845_DIP8/UC3845_DIP8.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.062Z"
+}

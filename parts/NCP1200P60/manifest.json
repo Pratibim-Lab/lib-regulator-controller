@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1200P60:NCP1200P60",
+  "name": "NCP1200P60",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1200P60.kicad_sym",
+  "description": "PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 60kHz, PDIP-8",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/NCP1200-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "NCP1200P40",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1200P60/",
+  "part_path": "parts/NCP1200P60",
+  "symbol_file": "parts/NCP1200P60/NCP1200P60.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.609Z"
+}

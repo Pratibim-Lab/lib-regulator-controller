@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/IR1153S:IR1153S",
+  "name": "IR1153S",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/IR1153S.kicad_sym",
+  "description": "Fixed 22.2kHz Frequency, uPFC One Cycle Control IC With Brown-Out Protection, Continuous Conduction Mode, SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/ir1153.pdf?fileId=5546d462533600a4015355c42a5b1649",
+  "keywords": "pfc controller ccm",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/IR1153S/",
+  "part_path": "parts/IR1153S",
+  "symbol_file": "parts/IR1153S/IR1153S.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.169Z"
+}

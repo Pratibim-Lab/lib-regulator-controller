@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC25600:UCC25600",
+  "name": "UCC25600",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC25600.kicad_sym",
+  "description": "High-Performance Resonant Mode Controller, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc25600.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC25600/",
+  "part_path": "parts/UCC25600",
+  "symbol_file": "parts/UCC25600/UCC25600.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.161Z"
+}

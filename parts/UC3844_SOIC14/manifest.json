@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UC3844_SOIC14:UC3844_SOIC14",
+  "name": "UC3844_SOIC14",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UC3844_SOIC14.kicad_sym",
+  "description": "Current-Mode PWM Controllers, 50% Duty Cycle, 16V/10V UVLO, SOIC-14",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/uc3842.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "UC3842_SOIC14",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UC3844_SOIC14/",
+  "part_path": "parts/UC3844_SOIC14",
+  "symbol_file": "parts/UC3844_SOIC14/UC3844_SOIC14.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.057Z"
+}

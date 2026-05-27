@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LM3478QMM:LM3478QMM",
+  "name": "LM3478QMM",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LM3478QMM.kicad_sym",
+  "description": "2.97~40V Wide Input Range Boost/SEPIC/Flyback DC-DC Controller, AEC-Q100 Qualified, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/gpn/lm3478q-q1",
+  "keywords": "Boost flyback SEPIC DC-DC controller Automotive",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "LM3478MA",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LM3478QMM/",
+  "part_path": "parts/LM3478QMM",
+  "symbol_file": "parts/LM3478QMM/LM3478QMM.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.464Z"
+}

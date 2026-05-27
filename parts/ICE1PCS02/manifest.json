@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/ICE1PCS02:ICE1PCS02",
+  "name": "ICE1PCS02",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/ICE1PCS02.kicad_sym",
+  "description": "Standalone PFC Controller in CCM With Input Brown-Out Protection, 65kHz, DIP-8/SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-ICE1PCS02-DS-v01_02-en.pdf?fileId=db3a304412b407950112b427c9283ccb",
+  "keywords": "SMPS pfc controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/ICE1PCS02/",
+  "part_path": "parts/ICE1PCS02",
+  "symbol_file": "parts/ICE1PCS02/ICE1PCS02.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.068Z"
+}

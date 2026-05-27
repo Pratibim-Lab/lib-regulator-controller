@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC256301:UCC256301",
+  "name": "UCC256301",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC256301.kicad_sym",
+  "description": "Hybrid Hysteretic LLC Resonant Controller, SOIC-16",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/ucc256301.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "Package_SO:SOIC-14-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC256301/",
+  "part_path": "parts/UCC256301",
+  "symbol_file": "parts/UCC256301/UCC256301.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.168Z"
+}

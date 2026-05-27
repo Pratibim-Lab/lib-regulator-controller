@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC3813-1:UCC3813-1",
+  "name": "UCC3813-1",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC3813-1.kicad_sym",
+  "description": "Low-Power Economy BiCMOS Current-Mode PWM, 50% Duty Cycle, 9.4V/7.4V UVLO, DIP-8/SOIC-8/TSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc3813-1.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "",
+  "extends": "UCC3800",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC3813-1/",
+  "part_path": "parts/UCC3813-1",
+  "symbol_file": "parts/UCC3813-1/UCC3813-1.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.302Z"
+}

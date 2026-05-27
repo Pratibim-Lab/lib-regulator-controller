@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/ICE2PCS01:ICE2PCS01",
+  "name": "ICE2PCS01",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/ICE2PCS01.kicad_sym",
+  "description": "Standalone PFC Controller in CCM, DIP-8/SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-ICE2PCS01-DS-v02_03-en.pdf?fileId=db3a304412b407950112b427caa43ccf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "",
+  "extends": "ICE1PCS01",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/ICE2PCS01/",
+  "part_path": "parts/ICE2PCS01",
+  "symbol_file": "parts/ICE2PCS01/ICE2PCS01.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.070Z"
+}

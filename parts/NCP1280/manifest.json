@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1280:NCP1280",
+  "name": "NCP1280",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1280.kicad_sym",
+  "description": "Active Clamp Voltage Mode PWM Controller for Off-Line Applications, SOIC-16",
+  "datasheet": "https://www.onsemi.com/pub/Collateral/NCP1280-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1280/",
+  "part_path": "parts/NCP1280",
+  "symbol_file": "parts/NCP1280/NCP1280.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.722Z"
+}

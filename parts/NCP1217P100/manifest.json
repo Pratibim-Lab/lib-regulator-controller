@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1217P100:NCP1217P100",
+  "name": "NCP1217P100",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1217P100.kicad_sym",
+  "description": "Enhanced PWM Current-Mode Controller for High-Power Universal Off-Line Supplies, AC-DC, 100kHz, PDIP-8",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/NCP1217-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_DIP:DIP-8_W7.62mm",
+  "extends": "NCP1200P40",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1217P100/",
+  "part_path": "parts/NCP1217P100",
+  "symbol_file": "parts/NCP1217P100/NCP1217P100.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.716Z"
+}

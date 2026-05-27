@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/TL494:TL494",
+  "name": "TL494",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/TL494.kicad_sym",
+  "description": "Pulse-Width-Modulation Control Circuits, PDIP-16/SOIC-16/TSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/tl494.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/TL494/",
+  "part_path": "parts/TL494",
+  "symbol_file": "parts/TL494/TL494.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.893Z"
+}

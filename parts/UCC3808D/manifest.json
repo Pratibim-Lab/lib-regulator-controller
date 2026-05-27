@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC3808D:UCC3808D",
+  "name": "UCC3808D",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC3808D.kicad_sym",
+  "description": "Low Power Current Mode Push-Pull PWM, SOIC-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc3808-2.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC3808D/",
+  "part_path": "parts/UCC3808D",
+  "symbol_file": "parts/UCC3808D/UCC3808D.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.283Z"
+}

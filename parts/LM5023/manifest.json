@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LM5023:LM5023",
+  "name": "LM5023",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LM5023.kicad_sym",
+  "description": "Quasi-Resonant Current-Mode PWM Controller for Off-Line Supplies, OVP/OTP, Latched OVP, VSSOP-8",
+  "datasheet": "https://www.ti.com/lit/ds/symlink/lm5023.pdf",
+  "keywords": "smps pwm controller ac-dc ac dc offline off-line quasi resonant quasi-resonant flyback",
+  "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LM5023/",
+  "part_path": "parts/LM5023",
+  "symbol_file": "parts/LM5023/LM5023.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.467Z"
+}

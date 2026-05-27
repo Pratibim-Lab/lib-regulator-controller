@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/IRS2505L:IRS2505L",
+  "name": "IRS2505L",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/IRS2505L.kicad_sym",
+  "description": "Boost PFC and SMPS Control IC, Critical Conduction Mode, SOT-23-5",
+  "datasheet": "https://www.infineon.com/dgdl/irs2505lpbf.pdf?fileId=5546d462533600a40153567ad42c2819",
+  "keywords": "pfc controller crcm dcm",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/IRS2505L/",
+  "part_path": "parts/IRS2505L",
+  "symbol_file": "parts/IRS2505L/IRS2505L.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.250Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L6563:L6563",
+  "name": "L6563",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L6563.kicad_sym",
+  "description": "Advanced Transition-Mode PFC Controller, SOIC-14",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l6563.pdf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L6563/",
+  "part_path": "parts/L6563",
+  "symbol_file": "parts/L6563/L6563.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.362Z"
+}

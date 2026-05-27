@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L6563H:L6563H",
+  "name": "L6563H",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L6563H.kicad_sym",
+  "description": "High Voltage Start-Up Transition-Mode PFC, SOIC-16",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l6563h.pdf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L6563H/",
+  "part_path": "parts/L6563H",
+  "symbol_file": "parts/L6563H/L6563H.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.382Z"
+}

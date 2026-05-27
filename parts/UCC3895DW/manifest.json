@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC3895DW:UCC3895DW",
+  "name": "UCC3895DW",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC3895DW.kicad_sym",
+  "description": "BiCMOS, Advanced Phase-ShiftPWM Controller, SOIC-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc3895.pdf",
+  "keywords": "Phase-shift full-bridge converter",
+  "footprint": "Package_SO:SOIC-20W_7.5x12.8mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC3895DW/",
+  "part_path": "parts/UCC3895DW",
+  "symbol_file": "parts/UCC3895DW/UCC3895DW.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.342Z"
+}

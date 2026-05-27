@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC24610DRB:UCC24610DRB",
+  "name": "UCC24610DRB",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC24610DRB.kicad_sym",
+  "description": "GREEN Rectifier Controller Device, 600kHz, DFN-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc24610.pdf",
+  "keywords": "synchronous rectifier controller",
+  "footprint": "Package_DFN_QFN:Texas_DRB0008A",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC24610DRB/",
+  "part_path": "parts/UCC24610DRB",
+  "symbol_file": "parts/UCC24610DRB/UCC24610DRB.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.095Z"
+}

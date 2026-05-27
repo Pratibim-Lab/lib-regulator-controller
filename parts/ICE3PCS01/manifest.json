@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/ICE3PCS01:ICE3PCS01",
+  "name": "ICE3PCS01",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/ICE3PCS01.kicad_sym",
+  "description": "Standalone PFC Controller in CCM, SOIC-14",
+  "datasheet": "https://www.infineon.com/dgdl/Infineon-ICE3PCS01-DS-v03_00-EN.pdf?fileId=db3a304329a0f6ee0129a67ae8c02b46",
+  "keywords": "SMPS pfc controller",
+  "footprint": "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/ICE3PCS01/",
+  "part_path": "parts/ICE3PCS01",
+  "symbol_file": "parts/ICE3PCS01/ICE3PCS01.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.124Z"
+}

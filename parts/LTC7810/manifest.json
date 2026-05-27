@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LTC7810:LTC7810",
+  "name": "LTC7810",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LTC7810.kicad_sym",
+  "description": "150V dual 2-phase synchronous step-down DC/DC controller, LQPF-48",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf",
+  "keywords": "switching buck converter regulator dual-output",
+  "footprint": "Package_QFP:LQFP-48-1EP_7x7mm_P0.5mm_EP3.6x3.6mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LTC7810/",
+  "part_path": "parts/LTC7810",
+  "symbol_file": "parts/LTC7810/LTC7810.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.574Z"
+}

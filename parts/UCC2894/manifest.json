@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC2894:UCC2894",
+  "name": "UCC2894",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC2894.kicad_sym",
+  "description": "SMPS Current-Mode Active Clamp PWM Controller, SOIC-16/TSSOP-16",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc2894.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "",
+  "extends": "UCC2892",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC2894/",
+  "part_path": "parts/UCC2894",
+  "symbol_file": "parts/UCC2894/UCC2894.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.221Z"
+}

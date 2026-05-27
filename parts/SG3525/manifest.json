@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/SG3525:SG3525",
+  "name": "SG3525",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/SG3525.kicad_sym",
+  "description": "Regulating Pulse Width Modulators, NOR Logic, PDIP-16/SOIC-16",
+  "datasheet": "www.st.com/resource/en/datasheet/sg3525.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/SG3525/",
+  "part_path": "parts/SG3525",
+  "symbol_file": "parts/SG3525/SG3525.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.817Z"
+}

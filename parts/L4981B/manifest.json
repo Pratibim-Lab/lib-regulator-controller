@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L4981B:L4981B",
+  "name": "L4981B",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L4981B.kicad_sym",
+  "description": "Power Factor Corrector, Line Modulated Frequency Average Current Mode, DIP-20/SOIC-20",
+  "datasheet": "http://www.st.com/resource/en/datasheet/l4981.pdf",
+  "keywords": "SMPS pfc controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L4981B/",
+  "part_path": "parts/L4981B",
+  "symbol_file": "parts/L4981B/L4981B.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.273Z"
+}

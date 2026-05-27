@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/IR1167S:IR1167S",
+  "name": "IR1167S",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/IR1167S.kicad_sym",
+  "description": "SmartRectifier Control IC, 500kHz, 200V, 2.0/7.0A, SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/ir1167aspbf.pdf?fileId=5546d462533600a4015355c45d9c1655",
+  "keywords": "synchronous rectifier controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/IR1167S/",
+  "part_path": "parts/IR1167S",
+  "symbol_file": "parts/IR1167S/IR1167S.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.208Z"
+}

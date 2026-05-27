@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1207B:NCP1207B",
+  "name": "NCP1207B",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1207B.kicad_sym",
+  "description": "PWM Current-Mode Controller for Free Running Quasi-Resonant Operation, AC-DC, 4.5us min Toff, SOIC-7",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NCP1207B.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_SO:SOIC-8-N7_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1207B/",
+  "part_path": "parts/NCP1207B",
+  "symbol_file": "parts/NCP1207B/NCP1207B.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.689Z"
+}

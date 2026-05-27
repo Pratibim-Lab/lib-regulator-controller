@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP4308DMT:NCP4308DMT",
+  "name": "NCP4308DMT",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP4308DMT.kicad_sym",
+  "description": "Synchronous Rectifier Controller, 4A/8A, 4V UVLO, WDFN-8",
+  "datasheet": "http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF",
+  "keywords": "synchronous rectifier controller",
+  "footprint": "Package_DFN_QFN:OnSemi_DFN-8_2x2mm_P0.5mm",
+  "extends": "NCP4308AMT",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP4308DMT/",
+  "part_path": "parts/NCP4308DMT",
+  "symbol_file": "parts/NCP4308DMT/NCP4308DMT.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.779Z"
+}

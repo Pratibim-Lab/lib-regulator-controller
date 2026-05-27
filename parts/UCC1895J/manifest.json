@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC1895J:UCC1895J",
+  "name": "UCC1895J",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC1895J.kicad_sym",
+  "description": "BiCMOS, Advanced Phase-ShiftPWM Controller, CDIP-20",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc3895.pdf",
+  "keywords": "Phase-shift full-bridge converter",
+  "footprint": "Package_DIP:DIP-20_W7.62mm_LongPads",
+  "extends": "UCC3895N",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC1895J/",
+  "part_path": "parts/UCC1895J",
+  "symbol_file": "parts/UCC1895J/UCC1895J.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.088Z"
+}

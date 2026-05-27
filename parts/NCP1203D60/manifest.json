@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/NCP1203D60:NCP1203D60",
+  "name": "NCP1203D60",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/NCP1203D60.kicad_sym",
+  "description": "PWM Current-Mode Controller for Universal Off-Line Supplies Featuring Standby and Short Circuit Protection, AC-DC, 60kHz, SOIC-8",
+  "datasheet": "http://www.onsemi.com/pub_link/Collateral/NCP1203-D.PDF",
+  "keywords": "SMPS Controller AC-DC",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "NCP1200D40",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/NCP1203D60/",
+  "part_path": "parts/NCP1203D60",
+  "symbol_file": "parts/NCP1203D60/NCP1203D60.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.622Z"
+}

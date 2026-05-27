@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC24636DBV:UCC24636DBV",
+  "name": "UCC24636DBV",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC24636DBV.kicad_sym",
+  "description": "Synchronous Rectifier Controller, 130kHz, DCM/TM, SOT-23-6",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc24636.pdf",
+  "keywords": "synchronous rectifier controller",
+  "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+  "extends": "UCC24630DBV",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC24636DBV/",
+  "part_path": "parts/UCC24636DBV",
+  "symbol_file": "parts/UCC24636DBV/UCC24636DBV.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.142Z"
+}

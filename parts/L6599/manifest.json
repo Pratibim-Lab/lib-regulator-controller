@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/L6599:L6599",
+  "name": "L6599",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/L6599.kicad_sym",
+  "description": "High Voltage Resonant Controller, DIP-16/SOIC-16",
+  "datasheet": "www.st.com/resource/en/datasheet/l6599.pdf",
+  "keywords": "SMPS controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/L6599/",
+  "part_path": "parts/L6599",
+  "symbol_file": "parts/L6599/L6599.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.430Z"
+}

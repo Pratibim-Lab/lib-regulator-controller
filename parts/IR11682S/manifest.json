@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/IR11682S:IR11682S",
+  "name": "IR11682S",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/IR11682S.kicad_sym",
+  "description": "Dual SmartRectifier Driver IC, 400kHz, 200V, 1.0/4.0A, SOIC-8",
+  "datasheet": "https://www.infineon.com/dgdl/ir11682spbf.pdf?fileId=5546d462533600a4015355c47188165a",
+  "keywords": "dual synchronous rectifier controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "IR1168S",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/IR11682S/",
+  "part_path": "parts/IR11682S",
+  "symbol_file": "parts/IR11682S/IR11682S.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.223Z"
+}

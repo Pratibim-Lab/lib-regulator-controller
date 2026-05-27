@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/UCC3800:UCC3800",
+  "name": "UCC3800",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/UCC3800.kicad_sym",
+  "description": "Low-Power BiCMOS Current-Mode PWM Controllers, 100% Duty Cycle, 7.2V/6.9V UVLO, DIP-8/SOIC-8/TSSOP-8",
+  "datasheet": "http://www.ti.com/lit/ds/symlink/ucc3800.pdf",
+  "keywords": "SMPS PWM Controller",
+  "footprint": "",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/UCC3800/",
+  "part_path": "parts/UCC3800",
+  "symbol_file": "parts/UCC3800/UCC3800.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:11.249Z"
+}

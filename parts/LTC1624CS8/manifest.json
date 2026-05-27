@@ -1,0 +1,17 @@
+{
+  "id": "Regulator_Controller/LTC1624CS8:LTC1624CS8",
+  "name": "LTC1624CS8",
+  "library": "Regulator_Controller",
+  "file": "Regulator_Controller.kicad_symdir/LTC1624CS8.kicad_sym",
+  "description": "High Efficiency N-Channel Switching Regulator Controller, SOIC-8",
+  "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/1624f.pdf",
+  "keywords": "Switching Regulator Controller",
+  "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-regulator-controller@master/parts/LTC1624CS8/",
+  "part_path": "parts/LTC1624CS8",
+  "symbol_file": "parts/LTC1624CS8/LTC1624CS8.kicad_sym",
+  "source_library": "Regulator_Controller.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:11:10.501Z"
+}
